@@ -9,7 +9,7 @@ import {
   union,
 } from "buffer-layout";
 import { PublicKey } from "@solana/web3.js";
-import BN from "bn.js";
+import { BN } from "bn.js";
 
 export {
   u8,
